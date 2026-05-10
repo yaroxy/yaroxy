@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## 👨🏻‍💻 Programming
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=apple,linux,obsidian,py,rust" alt="Tech Stack"/>
+</p>
