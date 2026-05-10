@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 ## 👨🏻‍💻 Programming
 
+> Tools for thought, code for joy.
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=apple,linux,obsidian,py,rust" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=apple,c,linux,obsidian,py,pytorch,rust" alt="Tech Stack"/>
 </p>
