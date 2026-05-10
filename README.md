@@ -23,3 +23,11 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=apple,c,linux,obsidian,py,pytorch,rust" alt="Tech Stack"/>
 </p>
+
+## 🌱 Currently Exploring
+
+> Learning how computation flows, agents think, and models serve.
+
+- ⚡ CUDA programming
+- 🤖 Agent systems
+- 🚀 SGLang inference
