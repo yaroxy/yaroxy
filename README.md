@@ -1,27 +1,15 @@
 ## Hi there 👋
 
-- B.S. in HIT
-- M.S. in USTC
+> Tools for thought, code for joy.
+
+CS @ HIT (B.S.) → USTC (M.S.). Relearning how to learn — and building a strong foundation in the systems behind large models, from algorithms all the way down to the GPU.
 
 <!--
-**yaroxy/yaroxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**yaroxy/yaroxy** is a ✨ _special_ ✨ repository because its `README.md`
+(this file) appears on your GitHub profile.
 -->
 
-
-## 👨🏻‍💻 Programming
-
-> Tools for thought, code for joy.
+## 👨🏻‍💻 Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=apple,c,linux,obsidian,py,pytorch,rust" alt="Tech Stack"/>
@@ -31,6 +19,13 @@ Here are some ideas to get you started:
 
 > Learning how computation flows, agents think, and models serve.
 
-- ⚡ CUDA programming
-- 🤖 Agent systems
-- 🚀 SGLang inference
+The same question from three angles — **how to run large models efficiently**:
+
+- ⚡ **CUDA** — what really happens on the GPU
+- 🤖 **Agent systems** — how models plan, act, and use tools
+- 🚀 **SGLang** — serving and inference at scale
+
+## 📫 Reach me
+
+- GitHub: [@yaroxy](https://github.com/yaroxy)
+- Email: yaroxywithyou@gmail.com
